@@ -1,0 +1,6 @@
+﻿1. Add a method "addBarcode()" that takes a string barCode "1" that displays a last item
+  of "Milk $3.99"
+
+2. Modify the method "addBarcode" that now takes a "2" and displays "Beef Jerky $5.99"
+
+3. Add a "Flubber $Null" for a barcode that is not in the inventory
